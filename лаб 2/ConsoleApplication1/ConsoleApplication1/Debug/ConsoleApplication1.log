@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\пользователь\desktop\лаб 2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\пользователь\desktop\лаб 2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\пользователь\desktop\лаб 2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\пользователь\desktop\лаб 2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пользователь\desktop\лаб 2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): warning C4244: инициализация: преобразование "clock_t" в "short", возможна потеря данных
+c:\users\пользователь\desktop\лаб 2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пользователь\desktop\лаб 2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(48): warning C4244: инициализация: преобразование "clock_t" в "short", возможна потеря данных
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\Users\Пользователь\Desktop\лаб 2\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Пользователь\Desktop\лаб 2\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ConsoleApplication2.cpp
+c:\users\пользователь\desktop\лаб 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(69): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пользователь\desktop\лаб 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(148): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+c:\users\пользователь\desktop\лаб 2\consoleapplication2\consoleapplication2\consoleapplication2.cpp(164): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+  Создание кода...
+  ConsoleApplication2.vcxproj -> C:\Users\Пользователь\Desktop\лаб 2\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\Пользователь\Desktop\лаб 2\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
